@@ -1,2 +1,4 @@
 # hello-world
-Another god amn repository
+Another god damn repository
+
+Hello
